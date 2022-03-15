@@ -1,0 +1,25 @@
+body {
+    background-color:aliceblue;
+}
+h1 {
+    color:slategrey;
+}
+h2 {
+    color:slategrey;
+}
+p {
+    color:snow;
+    background-color:mediumturquoise;
+}
+.gluten {
+    font-family:"Gluten",serif;
+}
+.sand {
+    font-family:"Quicksand",serif;
+}
+.shadows {
+    font-family:"Shadows Into Light",serif;
+}
+.ubuntu {
+    font-family:"Ubuntu",serif;
+}
